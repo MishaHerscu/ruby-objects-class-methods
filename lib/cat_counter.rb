@@ -1,3 +1,4 @@
+# Cat class
 class Cat
   @@cats_count = 0
 

@@ -1,5 +1,5 @@
 #Album class
-class Album
+class Album # Albums have an artist, title and tracks
   attr_reader :artist, :title
   attr_accessor :tracks
 
